@@ -1,0 +1,27 @@
+.container-desafio{
+    display: flex;
+    align-items: start;
+    flex-direction: row-reverse;
+    justify-content: start;
+    background-color:#c7c5c5;
+}
+
+.div4, .div3, .div2, .div1{
+    width: 40px;
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+}
+
+.div4{
+    background-color:#b4b429;
+}
+.div3{
+    background-color: #e91e7d;
+}
+.div2{
+    background-color: #04046d;
+}
+.div1{
+    background-color: #8dd5ff;
+}
